@@ -65,7 +65,7 @@ a {
   font-size: 64px;
   line-height: 90%;
   font-stretch: 150%;
-  font-family: Benzin-Semibold;
+  font-family: 'Benzin-Semibold';
   font-size: 64px;
   font-weight: 400;
   text-align: center;
@@ -74,7 +74,7 @@ a {
 .text-subtitle {
   font-size: 24px;
   font-weight: 600;
-  font-family: RoadRadio;
+  font-family: 'RoadRadio';
   font-size: 32px;
   font-weight: 700;
   text-align: center;
